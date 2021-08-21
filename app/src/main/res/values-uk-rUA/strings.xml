@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Happy Birthday Test</string>
+    <string name="from_master_van_3">від Мастера Вена</string>
+    <string name="fuck_you_leatherman">Пішов ти, кожем\'яко!</string>
+    <string name="roll_rng">крутити</string>
+    <string name="value_for_rng">--</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Happy Birthday Test</string>
+    <string name="from_master_van_3">♂college boy!♂</string>
+    <string name="fuck_you_leatherman">В бой,</string>
+    <string name="roll_rng">stick finger</string>
+    <string name="value_for_rng">--</string>
+    <string name="this_is_a_dice">This is a dice.</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main3">MainActivity3</string>
+</resources>
